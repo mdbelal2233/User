@@ -1,4 +1,4 @@
-
+[
     {
         "device_id": "device123",
         "username": "user1",
@@ -16,7 +16,8 @@
     {
         "device_id": "92c39828b2ac371b",
         "username": "user1",
-        "password": "12345678",
+        "password": "user1234",
         "expirydate": "30-12-2025",
         "Allowoffline": false
     }
+]
